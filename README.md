@@ -25,6 +25,8 @@ L’étude met en évidence l’impact de plusieurs variables, notamment :
 [https://drive.google.com/drive/folders/1c_8pLMQuT1QoLmB5ddkxbq4lse9C-ker](https://drive.google.com/file/d/1x3iLGLsGPmBsB_RVREg2y6vNoMUQr8VX/view?usp=sharing)
 
 ## Auteurs
-Félix SABIRON & Arthur ERNOUL de la Provôté
-Année universitaire: 2024-2025
+
+📌 Arthur ERNOUL de la PROVÔTÉ & Félix SABIRON
+
+📅 Année universitaire 2024 - 2025
 
