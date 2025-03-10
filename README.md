@@ -20,3 +20,11 @@ L’étude met en évidence l’impact de plusieurs variables, notamment :
 - **Modélisation statistique** : Application de modèles économétriques pour étudier des phénomènes économiques.
 - **Prévision** : Estimation des salaires futurs.
 
+## Lien vers le dossier complet
+
+https://drive.google.com/drive/folders/1c_8pLMQuT1QoLmB5ddkxbq4lse9C-ker
+
+## Auteurs
+Félix SABIRON & Arthur ERNOUL de la Provôté
+Année universitaire: 2024-2025
+
